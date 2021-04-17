@@ -6,6 +6,7 @@
 
 * [Main Website](https://isthicc.dev/)
 * [API](https://isthicc.dev/api)
+* [Discord](https://discord.isthicc.dev/)
 
 ## ThiccMonitoring
 
