@@ -12,3 +12,7 @@
 
 * [ThiccMonitoring Documentation](thiccmonitoring/thiccmonitoring-documentation.md)
 
+## API
+
+* [API Documentation](api/api-documentation.md)
+
