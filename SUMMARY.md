@@ -5,18 +5,20 @@
 ## Links
 
 * [Main Website](https://isthicc.dev/)
+* [Dashboard](https://isthicc.dev/login)
 * [API](https://isthicc.dev/api)
 * [Discord](https://discord.isthicc.dev/)
 
-## ThiccMonitoring
-
-* [ThiccMonitoring Documentation](thiccmonitoring/thiccmonitoring-documentation.md)
-
 ## API
 
-* [API Documentation](api/api-documentation.md)
+* [Introduction](api/Introduction.md)
 
 ## Dashboard
 
-* [Dashboard Documentation](dash/dash-documentation.md)  
-    * [Browsers](dash/browsers.md)
+* [Introduction](dash/Introduction.md)  
+* [Browsers](dash/browsers.md)
+
+## ThiccMonitoring
+
+* [Introduction](thiccmonitoring/Introduction.md)
+
