@@ -16,3 +16,7 @@
 
 * [API Documentation](api/api-documentation.md)
 
+## Dashboard
+
+* [Dashboard Documentation](dash/dash-documentation.md)  
+    * [Browsers](dash/browsers.md)
