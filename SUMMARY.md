@@ -16,9 +16,12 @@
 ## Dashboard
 
 * [Introduction](dash/Introduction.md)  
-* [Browsers](dash/browsers.md)
+* [Browsers](dash/Browsers.md)
 
-## ThiccMonitoring
+<!-- ## ThiccMonitoring
 
-* [Introduction](thiccmonitoring/Introduction.md)
+* [Introduction](thiccmonitoring/Introduction.md) -->
 
+## ThiccStatus
+
+* [Introduction](status/Introduction.md) 
