@@ -15,8 +15,8 @@
 
 ## Dashboard
 
-* [Introduction](dash/Introduction.md)  
-* [Browsers](dash/Browsers.md)
+* [Introduction](dashboard/Introduction.md)  
+* [Browsers](dashboard/Browsers.md)
 
 <!-- ## ThiccMonitoring
 
