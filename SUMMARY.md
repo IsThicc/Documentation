@@ -17,6 +17,11 @@
 
 * [Introduction](dashboard/Introduction.md)  
 * [Browsers](dashboard/Browsers.md)
+* [Accounts](dashboard/accounts/README.md)
+    * [Login](dashboard/accounts/Login.md)
+    * [Creating a good password](dashboard/accounts/Password.md)
+    * [Register](dashboard/accounts/Register.md)
+    * [Forgot password](dashboard/accounts/Forgot.md)
 
 <!-- ## ThiccMonitoring
 
