@@ -16,3 +16,6 @@ required fields below:
 
 After you have collected this information please visit [this signup](https://isthicc.dev/signup) page,
 and follow the given instructions!
+
+Check out [this](https://docs.isthicc.dev/dashboard/accounts/password) page for information on how
+to form a good password on the IsThicc Dashboard. 
