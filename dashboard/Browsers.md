@@ -4,7 +4,7 @@ description: Supported browsers - IsThicc Dashboard.
 
 # Supported Browsers
 
-Currently we only have full support for the most recent versions of [Google Chrome](https://www.google.com/chrome/) and browsers built on [Chromium](https://www.chromium.org/Home). We have yet to test other popular browsers(Firefox, Internet Explorer, Safari, etc.) 
+Currently, we only have full support for the most recent versions of [Google Chrome](https://www.google.com/chrome/) and browsers built on [Chromium](https://www.chromium.org/Home). We have yet to test other popular browsers(Firefox, Internet Explorer, Safari, etc.) 
 
 ## Contributing
 

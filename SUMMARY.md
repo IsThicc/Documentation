@@ -29,4 +29,6 @@
 
 ## ThiccStatus
 
-* [Introduction](status/Introduction.md) 
+* [Introduction](status/Introduction.md)
+* [Set up](status/New.md)
+  * [New Services](status/NewService.md)

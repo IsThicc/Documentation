@@ -9,9 +9,9 @@ password must conform to:
 
 - Maximum length of 32 characters
 - Minimum length of 8 characters
-- Include 2 special characters(see below)
-- Include 3 numbers 
-- Include 3 letters 
+- Include 2 special [characters](#special-characters)
+- Include 3 [numbers](#valid-number) 
+- Include 3 [letters](#valid-letters)
 
 ## Valid letters:
 
@@ -22,6 +22,8 @@ All letters between "a-z", and "A-Z" in the Latin alphabet.
 All numbers between 0-9 are valid. Numbers such as "100" count as 3 numbers. 
 
 ## Special characters:
+
+Listed below are all the valid special characters allowed for use in your password.  
 
 - @
 - $
