@@ -10,9 +10,3 @@ your user email visit [this](https://isthicc.dev/forgot) page, and request a res
 
 Check out [this](https://docs.isthicc.dev/dashboard/accounts/password) page for information on how 
 to form a good password on the IsThicc Dashboard. 
-
-## Login:
-
-Visit [this](https://isthicc.dev/login) page to login to the dashboard. You will need your
-username, and password. 
-
