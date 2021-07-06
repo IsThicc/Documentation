@@ -15,6 +15,7 @@
 * [Basics](api/basics.md)
 * [Endpoints](api/endpoints.md)
   * [/api](api/endpoints/root.md)
+  * [/api/v1/status](api/endpoints/status_root.md)
 
 ## Dashboard
 

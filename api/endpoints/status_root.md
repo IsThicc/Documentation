@@ -2,19 +2,19 @@
 description: Work in progress Documentation for our API.
 ---
 
-# Root endpoint 
+# Status root endpoint 
 
-{% api-method method="get" host="https://isthicc.dev" path="/api" %}
+{% api-method method="get" host="https://isthicc.dev" path="/api/v1/status" %}
 {% api-method-summary %}
-View information about IsThicc Software, and our API.
+View information about ThiccStatus. 
 {% endapi-method-summary %}
 
 {% api-method-description %}
+This endpoint gives details about ThiccStatus, and the related endpoints. This endpoint does not provide any user data access.
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
-
 <!-- 
 {% api-method-path-parameters %}
 {% api-method-parameter name="id" type="string" %}
@@ -40,12 +40,10 @@ Whether the cake should be gluten-free or not.
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %} 
 -->
-
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
-
 <!-- 
 {% api-method-response-example-description %}
 Cake successfully retrieved.
@@ -55,22 +53,10 @@ Cake successfully retrieved.
 ```
 {
     "info":"The IsThicc API is a REST API to interact with IsThicc Software(services, products, etc.).",
-    "main_urls":{
-        "Information":["/api/v1/info", "/api/v1/information"],
-        "Licensing":["/api/v1/license", "/api/v1/licensing"],
-        "Main":["/api/v1"], 
-        "Status":["/api/v1/status"],
-        "Updates":["/api/v1/update/", "/api/v1/updates"]
-        },
-    "redirect_urls":{
-        "api":"https://isthicc.dev/api",
-        "cdn":"https://isthicc.dev/cdn",
-        "github":"https://github.com/IsThicc/"
-        },
+    "urls": [],
     "api_time": "2021-07-06 01:09:56.658914",
-    "endpoint": "/api",
-    "name":"IsThicc API",
-    "website":"https://isthicc.dev/"
+    "endpoint": "/api/v1/status",
+    "name":"IsThicc API"
 }
 ```
 {% endapi-method-response-example %}

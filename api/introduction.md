@@ -4,7 +4,6 @@ description: Work in progress Documentation for the IsThicc API.
 
 # Introduction
 
-Hello! We're so happy you've taken interest in our API.
-
-## Our API is not fully released! All endpoints and features may not work as expected!
-
+Welcome to this section of our documentation! In this section we cover our API. Topics include:
+- Authentication 
+- Endpoints 
