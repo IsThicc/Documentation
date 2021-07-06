@@ -12,8 +12,9 @@
 ## API
 
 * [Introduction](api/introduction.md)
+* [Basics](api/basics.md)
 * [Endpoints](api/endpoints.md)
-  * [/](api/endpoints/root.md)
+  * [/api](api/endpoints/root.md)
 
 ## Dashboard
 
