@@ -1,0 +1,6 @@
+{
+    "variables": {
+        "api_root": "https://isthicc.dev/api",
+        "api_version": "v1"
+    }
+}

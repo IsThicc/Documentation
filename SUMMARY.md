@@ -13,6 +13,7 @@
 
 * [Introduction](api/introduction.md)
 * [Endpoints](api/endpoints.md)
+  * [/](api/endpoints/root.md)
 
 ## Dashboard
 
