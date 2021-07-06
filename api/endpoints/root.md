@@ -4,7 +4,7 @@ description: Work in progress Documentation for our API.
 
 # Root endpoint 
 
-## a {{ book.api_root }}
+## a {{ api_root }}
 
 
 {% api-method method="get" host="{{ book.api_root }}" path="/" %}
