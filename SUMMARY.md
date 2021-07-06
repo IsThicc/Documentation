@@ -11,24 +11,22 @@
 
 ## API
 
-* [Introduction](api/Introduction.md)
+* [Introduction](api/introduction.md)
+* [Endpoints](api/endpoints.md)
 
 ## Dashboard
 
-* [Introduction](dashboard/Introduction.md)  
-* [Browsers](dashboard/Browsers.md)
+* [Introduction](dashboard/introduction.md)
+* [Browsers](dashboard/browsers.md)
 * [Accounts](dashboard/accounts/README.md)
-    * [Login](dashboard/accounts/Login.md)
-    * [Creating a good password](dashboard/accounts/Password.md)
-    * [Register](dashboard/accounts/Register.md)
-    * [Forgot password](dashboard/accounts/Forgot.md)
-
-<!-- ## ThiccMonitoring
-
-* [Introduction](thiccmonitoring/Introduction.md) -->
+  * [Login](dashboard/accounts/login.md)
+  * [Creating a good password](dashboard/accounts/password.md)
+  * [Register](dashboard/accounts/register.md)
+  * [Forgot password](dashboard/accounts/forgot.md)
 
 ## ThiccStatus
 
-* [Introduction](status/Introduction.md)
-* [Set up](status/New.md)
-  * [New Services](status/NewService.md)
+* [Introduction](thiccstatus/introduction.md)
+* [Set up](thiccstatus/new/README.md)
+  * [New Services](thiccstatus/new/newservice.md)
+
