@@ -3,7 +3,7 @@ description: Work in progress Documentation for our API.
 ---
 
 # Root endpoint 
-
+{{ book.api_root }}
 {% api-method method="get" host="{{ book.api_root }}" path="/" %}
 {% api-method-summary %}
 View information about IsThicc Software, and our API.
