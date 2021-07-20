@@ -15,7 +15,8 @@ bot.load_extension('thiccstatus')
 ```
 
 ## How to use
-```ill put stuff here when it's done```
+
+*Work in progress!*
 
 ## Prerequisites
 
@@ -30,6 +31,3 @@ bot.load_extension('thiccstatus')
 | ------------- | ------------- | ------------- |
 | THICCSTATUS_API_TOKEN  | Your ThiccStatus API token | 3e8ed76e-6f1f-40ca-bd03-177196454934 |
 | THICCSTATUS_DOMAIN  | Domain of your ThiccStatus status page | testing.thiccstat.us |
-
-
-<p align="center">Copyright (c) 2020-2021 IsThicc</p>
