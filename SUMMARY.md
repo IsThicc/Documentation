@@ -32,4 +32,5 @@
 * [Introduction](thiccstatus/introduction.md)
 * [Set up](thiccstatus/new/README.md)
   * [New Services](thiccstatus/new/newservice.md)
+* [Discord](thiccstatus/discord.md)
 
