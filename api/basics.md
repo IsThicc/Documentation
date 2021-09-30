@@ -6,7 +6,7 @@ description: Work in progress Documentation for our API.
 
 ## Authentication
 
-Authentication has been moved to [this](/api/authentication) article!
+Authentication has been moved to [this](https://docs.isthicc.dev/api/authentication) article!
 
 ## Response Standards 
 
