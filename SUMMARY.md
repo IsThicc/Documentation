@@ -13,6 +13,7 @@
 
 * [Introduction](api/introduction.md)
 * [Basics](api/basics.md)
+* [Authentication](api/authentication.md)
 * [Endpoints](api/endpoints.md)
   * [/api](api/endpoints/root.md)
   * [/api/v1/status](api/endpoints/status_root.md)
